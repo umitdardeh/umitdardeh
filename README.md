@@ -12,6 +12,8 @@
 ### You can reach me with:
 
 <a href="https://linkedin.com/in/umitdardeh/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
+<a href="https://instagram.com/umitdardeh/"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a>
+<a href="umitdardeh@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
 
 * * * *
 
