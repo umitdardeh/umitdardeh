@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on developing processes and improvement time spent with web applications for automotive industry
 - 💬 Ask me about #designthinking #projectfunding #projectmanagement
 
-### You can check my website:
+### You can check my website: <a href="https://dardeh.com/"><"dardeh.com">
 
 <a href="https://dardeh.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/web" /></a>
 
