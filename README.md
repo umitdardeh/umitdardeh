@@ -7,8 +7,6 @@
 
 ### You can check my website: <a href="https://dardeh.com/">dardeh.com
 
-<a href="https://dardeh.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/web" /></a>
-
 ### You can check my personal blog:
 
 <a href="https://umitdardeh.medium.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/medium" /></a>
