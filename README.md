@@ -1,11 +1,15 @@
 ### Hi there, I'am Ümit 👋
 
-- 🔭 I’m currently working on Ford Motor Company\n
+- 🔭 I’m currently working on Ford Motor Company
 - 🌱 I’m currently learning Web Apps with **Patika.dev & Ford Otosan Software Academy Program**
 - 👯 I’m looking to collaborate on developing processes and improvement time spent with web applications for automotive industry
 - 💬 Ask me about #designthinking #projectfunding #projectmanagement
 
-### You can check my blog:
+### You can check my website:
+
+<a href="https://dardeh.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/webpage" /></a>
+
+### You can check my personal blog:
 
 <a href="https://umitdardeh.medium.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/medium" /></a>
 
