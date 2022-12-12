@@ -5,9 +5,17 @@
 - 👯 I’m looking to collaborate on developing processes and improvement time spent with web applications for automotive industry
 - 💬 Ask me about #designthinking #projectfunding #projectmanagement
 
+### You can check my blog:
+
+<a href="https://umitdardeh.medium.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/medium" /></a>
+
+### You can reach me with:
+
+<a href="https://linkedin.com/in/umitdardeh/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
+
 * * * *
 
-A professional who has adopted lifelong learning as his principle. I have 4 important value;
+If you want to learn more details about me; I have 4 important value;
 
 1. **Gaining experience in business life,** focused on maximizing automating business ways with a destructive innovation focus, reducing operational business rates and increasing process development potential
 
@@ -20,15 +28,5 @@ A professional who has adopted lifelong learning as his principle. I have 4 impo
 * * * *
 
 He received his bachelor's degree from Yıldız Technical University Department of Mechatronics Engineering and also a graduated from at Istanbul University Business Administration Bachelor Program. He is currently Mechatronics Engineering Master student in thesis stage. He worked in international projects in Turkey's most important companies with the highest export figures. He is currently working in the field of management of global projects at Ford Otosan, a joint venture firm of Ford Motor Company and Koç Holding.
-
-### You can check my blog:
-
-<a href="https://umitdardeh.medium.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/medium" /></a>
-
-### You can reach me with:
-
-<a href="https://linkedin.com/in/umitdardeh/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
-
-
 
 
