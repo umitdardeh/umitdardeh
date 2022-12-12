@@ -1,6 +1,6 @@
 ### Hi there, I'am Ümit 👋
 
-- 🔭 I’m currently working on Ford Motor Company
+- 🔭 I’m currently working on Ford Motor Company\n
 - 🌱 I’m currently learning Web Apps with **Patika.dev & Ford Otosan Software Academy Program**
 - 👯 I’m looking to collaborate on developing processes and improvement time spent with web applications for automotive industry
 - 💬 Ask me about #designthinking #projectfunding #projectmanagement
